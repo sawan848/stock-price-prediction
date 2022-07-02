@@ -1,7 +1,14 @@
+<<<<<<< HEAD
    # [Stock-Market-Price-Prediction](https://docs.google.com/document/d/16XxmrRX6agrSqefl0qFdFBFmF1XjJZQLceU5Uqhtt4w)
    ### this is based [python](https://python.com)programming language i have used a  [Tensorflow](https://tensorflow.com/) python-library
 
 ## [project-docs](https://docs.google.com/document/u/1/d/e/2PACX-1vTWDyUVTGnHJ5ghNboBUfwrxzL9t0Iwv84B8q-gDuLaTrGkB2uTc6kih4jkhvHqeFjI1vcb1-iealBP/pub)
+=======
+   # [Stock-Market-Price-Prediction](https://docs.google.com/document/d/16XxmrRX6agrSqefl0qFdFBFmF1XjJZQLceU5Uqhtt4w](https://docs.google.com/document/d/e/2PACX-1vTWDyUVTGnHJ5ghNboBUfwrxzL9t0Iwv84B8q-gDuLaTrGkB2uTc6kih4jkhvHqeFjI1vcb1-iealBP/pub)
+   <br/> this is based [python](https://python.com)programming language i have used a  [Tensorflow](https://tensorflow.com/) python-library
+
+
+>>>>>>> 05b1a1bfc86f989488a90bc48bdd2fd8796babb7
 
 ## I have used Followwing library
 
