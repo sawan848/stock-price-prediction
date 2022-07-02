@@ -1,0 +1,9 @@
+plotly
+prophet
+datetime
+yfinance
+streamlit
+cufflinks
+tensorflow
+plot_plotly
+pandas_datareader
