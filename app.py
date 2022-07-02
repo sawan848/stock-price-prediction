@@ -45,13 +45,14 @@ period=n_years*365
 
 
 # Retrieving tickers data
-# ticker_list = pd.read_csv('https://raw.githubusercontent.com/dataprofessor/s-and-p-500-companies/master/data/constituents_symbols.txt')
-# tickerSymbol = st.sidebar.selectbox('Stock ticker', ticker_list) # Select ticker symbol
-tickerSymbol=st.sidebar.text_input('Enter Stock Ticker','AAPL')
+ticker_list = pd.read_csv('https://raw.githubusercontent.com/dataprofessor/s-and-p-500-companies/master/data/constituents_symbols.txt')
+tickerSymbol = st.sidebar.selectbox('Stock ticker', ticker_list) # Select ticker symbol
+tickerSymbol=st.sidebar.text_input('Enter Stock Ticker','SBIN.NS')
 tickerData = yf.Ticker(tickerSymbol) # Get ticker data
 tickerDf = tickerData.history(period='1d', start=start_date, end=end_date) #get the historical prices for this ticker
 
-
+#Apple --> AAPL
+#Statebank--> SBIN.NS
 
 
 # Ticker information
@@ -134,12 +135,12 @@ st.subheader("Forecast data")
 st.write(forecast.tail()) 
 
 
-st.write("Forecast data")
+st.header("Forecast data")
 fig1=plot_plotly(m, forecast)
 st.plotly_chart(fig1)
 
 
-st.write("Forecast components")
+st.header("Forecast components")
 fig2=plot_components_plotly(m,forecast)
 st.plotly_chart(fig2)
 
@@ -194,3 +195,8 @@ plt.ylabel('Price')
 plt.legend()
 st.pyplot(fig2)
 
+
+
+####
+# st.write('---')
+# st.write(tickerData.info)
