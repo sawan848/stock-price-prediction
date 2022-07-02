@@ -1,7 +1,3 @@
-plotly
 prophet
-datetime
 pandas_datareader
-yfinance
 streamlit
-plot_plotly
