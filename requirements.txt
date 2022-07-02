@@ -1,9 +1,9 @@
 plotly
 prophet
 datetime
+pandas_datareader
 yfinance
 streamlit
 cufflinks
-tensorflow
 plot_plotly
-pandas_datareader
+tensorflow
