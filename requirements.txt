@@ -4,6 +4,4 @@ datetime
 pandas_datareader
 yfinance
 streamlit
-cufflinks
 plot_plotly
-tensorflow
