@@ -1,7 +1,6 @@
-   [Stock-Market-Price-Prediction](https://docs.google.com/document/d/16XxmrRX6agrSqefl0qFdFBFmF1XjJZQLceU5Uqhtt4w) this is based [python](https://python.com)programming language i have used a  [Tensorflow](https://tensorflow.com/) python-library
+   # [Stock-Market-Price-Prediction](https://docs.google.com/document/d/16XxmrRX6agrSqefl0qFdFBFmF1XjJZQLceU5Uqhtt4w) this is based [python](https://python.com)programming language i have used a  [Tensorflow](https://tensorflow.com/) python-library
 
 
- [Stock-Market-Price-Prediction](https://docs.google.com/document/d/16XxmrRX6agrSqefl0qFdFBFmF1XjJZQLceU5Uqhtt4w)
 
 ## I have used Followwing library
 
