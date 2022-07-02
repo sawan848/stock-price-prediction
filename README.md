@@ -6,7 +6,6 @@
    <br/> this is based [python](https://python.com)programming language i have used a  [Tensorflow](https://tensorflow.com/) python-library
 
 
->>>>>>> 05b1a1bfc86f989488a90bc48bdd2fd8796babb7
 
 ## I have used Followwing library
 
