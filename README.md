@@ -1,10 +1,49 @@
    # [Stock-Market-Price-Prediction](https://docs.google.com/document/d/16XxmrRX6agrSqefl0qFdFBFmF1XjJZQLceU5Uqhtt4w)
-   ### this is based [python](https://python.com)programming language i have used a  [Tensorflow](https://tensorflow.com/) python-library
+ 
+ <p align="center">
+    <a href="https://github.com/sawan848/stock-price-prediction">Stock Market Price Prediction
+      <img src="screens/Slide1.JPG" width="130" alt="stock-price-prediction">
+     </a>
+  <p>
+  </p>
+ </p>
+<details open="open">
+  <summary>Table of Contents</summary>
+    <ol>
+      <li><a href="#about-stock-market">About Stock Market </a></li>
+      <li><a href="#about-the-project">About the Project </a></li>
+      <li><a href="#build-with">Build with </a></li>
+      <li><a href="#getting-started">Getting Started </a>
+          <ul>
+             <li><a href="#prerequisites">Prerequisites </a></li>
+             <li><a href="#local-repository-setup">Local Repository Setup</a></li>
+             <li><a href="#running-the-project">Running the project</a></li>
+          </ul>
+      </li>
+       <li><a href="#license">License </a></li>
+    </ol>
+</details>
+
+<br>
+
+![screen1](screens/Slide1.JPG)
+![screen2](screens/Slide2.JPG)
+![screen3](screens/Slide3.JPG)
+![screen4](screens/Slide4.JPG)
+![screen5](screens/Slide5.JPG)
+![screen6](screens/Slide6.JPG)
+![screen7](screens/Slide7.JPG)
+![screen8](screens/Slide8.JPG)
+![screen9](screens/Slide9.JPG)
+![screen10](screens/Slide10.JPG)
+![screen11](screens/Slide11.JPG)
+![screen12](screens/Slide12.JPG)
+
 
 ## [project-docs](https://docs.google.com/document/u/1/d/e/2PACX-1vTWDyUVTGnHJ5ghNboBUfwrxzL9t0Iwv84B8q-gDuLaTrGkB2uTc6kih4jkhvHqeFjI1vcb1-iealBP/pub)
 
-   <br/> this is based [python](https://python.com)programming language i have used a  [Tensorflow](https://tensorflow.com/) python-library
-
+ 
+# Getting Started!
 
 
 ## I have used Followwing library
@@ -140,6 +179,7 @@ The input to Prophet is always a dataframe with two columns: ds and y. The ds (d
          conda install -c conda-forge prophet
 
 ```
+<br>
 ![An old rock in the desert](https://facebook.github.io/prophet/static/quick_start_files/quick_start_12_0.png)
 ## Install yahoo-finance
 ```bash
